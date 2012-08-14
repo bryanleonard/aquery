@@ -8,4 +8,4 @@ If you're tired of writing shit-tons of code,  then aQuery is the doodad for you
 aQuery is a super-new fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, Ajax interactions and barnacle scrubbing for rapid web development. aQuery is designed to change the way that you view the world around you.
 
 Also, it's a joke. View the website for more... or less...
-http://bryanleonard.us/aquery
+http://www.bryanleonard.us/aquery
