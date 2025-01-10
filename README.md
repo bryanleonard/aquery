@@ -10,4 +10,4 @@ aQuery is a super-new fast and concise JavaScript library that simplifies HTML d
 It's faster than that "other" query library. How do we know this? Because A comes before J in the alphabet. That's how.
 
 Also, it's a joke. View the website for more... or less...
-[https://www.forcequit.io/aquery](https://www.forcequit.io/aquery)
+[https://www.forcequit.io/aquery/site](https://www.forcequit.io/aquery/site)
